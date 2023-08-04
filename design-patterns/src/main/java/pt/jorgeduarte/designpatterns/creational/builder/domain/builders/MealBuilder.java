@@ -1,6 +1,7 @@
-package pt.jorgeduarte.designpatterns.builder.domain.builders;
+package pt.jorgeduarte.designpatterns.creational.builder.domain.builders;
 
 import pt.jorgeduarte.designpatterns.builder.domain.entities.*;
+import pt.jorgeduarte.designpatterns.creational.builder.domain.entities.*;
 
 public class MealBuilder {
     Meal prepareVegMeal (){

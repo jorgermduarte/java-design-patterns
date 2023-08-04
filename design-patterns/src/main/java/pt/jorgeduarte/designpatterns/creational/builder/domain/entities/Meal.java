@@ -1,4 +1,4 @@
-package pt.jorgeduarte.designpatterns.builder.domain.entities;
+package pt.jorgeduarte.designpatterns.creational.builder.domain.entities;
 
 import java.util.List;
 
